@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Taask21/static/css/main.5c573944.css",
+    "main.js": "/Taask21/static/js/main.7c96567e.js",
+    "static/media/pexels-ekrulila-30118135.jpg": "/Taask21/static/media/pexels-ekrulila-30118135.31bef0ba8e6c0df04f7b.jpg",
+    "static/media/pexels-stijn-dijkstra-1306815-29988886.jpg": "/Taask21/static/media/pexels-stijn-dijkstra-1306815-29988886.30b6339fea781d98bdf8.jpg",
+    "static/media/pexels-bylukemiller-27692128.jpg": "/Taask21/static/media/pexels-bylukemiller-27692128.7fda722535bd8852cd7a.jpg",
+    "static/media/pexels-chris-f-38966-30102888.jpg": "/Taask21/static/media/pexels-chris-f-38966-30102888.a254438aab42d18fa1b6.jpg",
+    "static/media/pexels-redouan-charf-142956762-19962027.jpg": "/Taask21/static/media/pexels-redouan-charf-142956762-19962027.cbe68be4b5b9d0b0d453.jpg",
+    "static/media/pexels-sanat-anghan-25736600-28435500.jpg": "/Taask21/static/media/pexels-sanat-anghan-25736600-28435500.677021d6019253f2a6b7.jpg",
+    "static/media/pexels-maha-mestassi-546639725-16639219.jpg": "/Taask21/static/media/pexels-maha-mestassi-546639725-16639219.2eec8ce1b4bb6b15c788.jpg",
+    "static/media/pexels-florian-kriechbaumer-1479976889-26926276.jpg": "/Taask21/static/media/pexels-florian-kriechbaumer-1479976889-26926276.7762b8005cc1affdb37c.jpg",
+    "static/media/pexels-debphotography-25853775.jpg": "/Taask21/static/media/pexels-debphotography-25853775.9413a61c3624619d5b32.jpg",
+    "index.html": "/Taask21/index.html",
+    "main.5c573944.css.map": "/Taask21/static/css/main.5c573944.css.map",
+    "main.7c96567e.js.map": "/Taask21/static/js/main.7c96567e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c573944.css",
+    "static/js/main.7c96567e.js"
+  ]
+}
